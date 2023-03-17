@@ -1,0 +1,25 @@
+1.Crud Using MongoDb- Done
+
+2.Crud Using SqlServer- Done
+
+3.Microservices- Done
+
+4.Security-  To be Implemented
+( jwt Connection string to be given in the backend
+configuring middleware
+In front end creating  a seperate service layer,
+AuthService , HomeApiService, Routing
+.Store the token
+.Get the token
+.Check if the user is logged
+.Logout
+
+Guard to be implemented to manage the routing ,
+Creating interceptors- get the token here and clone the request
+To be given in providers (app.module.ts))
+
+5.CQRS - Done
+
+6.Angular - Done
+
+7.MOQ Framework - To be implemented
